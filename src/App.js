@@ -42,14 +42,14 @@ const feedbacks = [
   {
     avatar:
       "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg",
-    username: "aallirza",
+    username: "mehemmed_b.ov",
     content:
       "Salon ve oturacaqlar cox temizdi, ses avadanliqlari yuksek seviyyede isleyir",
   },
   {
     avatar:
       "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
-    username: "nurlan.shirinov",
+    username: "resulzadee",
     content:
       "Orta sirada oturanda ekrani tam gormek olmur ve goruntu keyfiyyeti pisdir",
   },
